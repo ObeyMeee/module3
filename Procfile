@@ -1,0 +1,1 @@
+web: java -jar target/module3-1.0-SNAPSHOT.jar
