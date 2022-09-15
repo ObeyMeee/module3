@@ -4,9 +4,9 @@
         "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
     <session-factory>
-        <property name="hibernate.connection.username">postgres</property>
-        <property name="hibernate.connection.password">1337</property>
-        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/university</property>
+        <property name="hibernate.connection.username">gyxtucboengfyq</property>
+        <property name="hibernate.connection.password">2476f1e2b7474f8e2b440b755a82ade63eb7421306ea7d5e61c328da5ffd6976</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://ec2-52-200-5-135.compute-1.amazonaws.com/df9o8qhhhdfp63</property>
 
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL95Dialect</property>
 
